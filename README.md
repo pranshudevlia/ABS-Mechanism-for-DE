@@ -171,3 +171,7 @@ The project presentation records work in three areas.
 - Hardware integration and wiring.
 - Model testing and rectification.
 
+  ## List of Hardware components ordered
+
+  https://onedrive.live.com/:x:/g/personal/432448a131883864/IQACBHqHHscxQoaJMehmzSOOAbpldP8N4flmG1kdr_zZOf4?rtime=U3fTJxtE30g&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy80MzI0NDhhMTMxODgzODY0L0lRQUNCSHFISHNjeFFvYUpNZWhtelNPT0FicGxkUDhONGZsbUcxa2RyX3paT2Y0P2U9ZGM5WEswJm5hdj1NVFZmZXpBd01EQXdNREF3TFRBd01ERXRNREF3TUMwd01EQXdMVEF3TURBd01EQXdNREF3TUgw
+

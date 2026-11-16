@@ -5,7 +5,7 @@
 
    RESPONSIBILITY OF UNO:
    ----------------------
-   1. 16x2 I2C LCD display
+   1. 16x2 I2C LCD displayn
    2. KY-040 rotary encoder
    3. KY-040 push button = SELECT / ENTER
    4. External BACK button

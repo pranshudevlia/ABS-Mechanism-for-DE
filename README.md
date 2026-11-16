@@ -162,9 +162,7 @@ The project presentation records work in three areas.
 - Partial Arduino MEGA framework for motion control.
 - Establishment of UNO–MEGA serial communication.
 
-## Future Work
-
-The project presentation identifies the following next steps:
+## Final modifications
 
 - Hardware testing.
 - Motor and encoder calibration.
@@ -173,8 +171,3 @@ The project presentation identifies the following next steps:
 - Hardware integration and wiring.
 - Model testing and rectification.
 
-**Project Guide:** Dr. Aman Khurana, Assistant Professor, Department of Mechanical Engineering, IIT Indore.
-
----
-
-*This README is based on the B.Tech end-evaluation presentation. Images are page extracts from that presentation. Update the project status, results and implementation details as further testing and integration are completed.*

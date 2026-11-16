@@ -4,7 +4,7 @@ A B.Tech project at **IIT Indore** focused on the design and development of a co
 
 > **Project status:** The end-evaluation presentation documents mechanical design, CAD development, 3D-printed prototype work, hardware selection and planning, initial Arduino UNO interface code, a partial Arduino MEGA motion-control framework, and UNO–MEGA communication. Hardware testing, calibration, final integration and model validation are listed as future work. This README does not claim that full-system performance has been experimentally validated.
 
-![Project cover](images/project-cover.png)
+
 
 ## Table of Contents
 - [Motivation](#motivation)
@@ -46,25 +46,19 @@ The mechanism uses a rack-and-pinion-based transmission to generate motion along
 
 The scissor fixture is intended to distribute displacement around the specimen while helping maintain its orientation during biaxial stretching.
 
-![Final mechanism design](images/final-mechanism-design.png)
 
 ### Eight-pin scissor fixture
 
 The final concept uses an eight-pin arrangement connected through a scissor mechanism. The presentation identifies reduced stress concentration, improved stress distribution and a compliant interface to the specimen as intended advantages.
 
-![Eight-pin scissor fixture](images/eight-pin-scissor-fixture.png)
-
 ### Exploded assembly
 
 The assembly is organized around the lower base, X-direction T-base and T-rack, central gears and motors, cross L-racks, and the scissor mechanism with the DE specimen.
-
-![Exploded assembly](images/exploded-assembly.png)
 
 ### Prototype
 
 The project presentation includes the following photograph of the 3D-printed mechanism.
 
-![3D-printed prototype](images/fabricated-prototype.png)
 
 ## Design Development
 
@@ -105,7 +99,6 @@ The following values are listed in the project presentation.
 | Clearance between two walls | 0.4 mm |
 | Rack teeth to gear teeth clearance | 0.15 mm |
 
-![Key design dimensions](images/key-design-dimensions.png)
 
 ## Electronics and Control Architecture
 
@@ -129,13 +122,9 @@ The proposed system combines a user-interface controller and a motion-control co
 - **Feedback:** Encoder signals provide motor-output position information.
 - **Homing:** Limit switches provide the home-position reference.
 
-![System block diagram](images/system-block-diagram.png)
-
 ### Circuit diagram
 
 The following circuit diagram is reproduced from the project presentation as the proposed circuit arrangement.
-
-![Circuit diagram](images/circuit-diagram.png)
 
 ## User Interface and Operating Concept
 
@@ -183,13 +172,6 @@ The project presentation identifies the following next steps:
 - Final part fabrication.
 - Hardware integration and wiring.
 - Model testing and rectification.
-
-## Project Team
-
-**B.Tech Project — Department of Mechanical Engineering, IIT Indore**
-
-- **Pranshu Devlia**
-- **Jitesh K. Meena**
 
 **Project Guide:** Dr. Aman Khurana, Assistant Professor, Department of Mechanical Engineering, IIT Indore.
 
